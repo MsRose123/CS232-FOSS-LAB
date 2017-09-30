@@ -1,0 +1,12 @@
+(S'ALEENA A'
+p0
+S'XXX LANE,RAJAGIRI VALLEY P.O EKM'
+p1
+L7689547502L
+S'BMW'
+p2
+S'aleenaa@gmail.com'
+p3
+I50000
+tp4
+.
